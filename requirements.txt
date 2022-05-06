@@ -1,4 +1,4 @@
-xgbooost
+xgboost
 sklearn
 streamlit
 numpy
