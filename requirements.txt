@@ -1,4 +1,4 @@
-xgbooost=1.6.0
+xgbooost==1.6.0
 sklearn
 streamlit
 numpy
