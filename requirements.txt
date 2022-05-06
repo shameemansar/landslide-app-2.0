@@ -1,0 +1,5 @@
+xgbooost=1.6.0
+sklearn
+streamlit
+numpy
+pandas
